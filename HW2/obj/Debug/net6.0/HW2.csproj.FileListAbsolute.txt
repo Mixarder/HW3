@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/bin/Debug/net6.0/HW2
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/bin/Debug/net6.0/HW2.deps.json
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/bin/Debug/net6.0/HW2.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/bin/Debug/net6.0/HW2.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/bin/Debug/net6.0/HW2.pdb
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/refint/HW2.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.pdb
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/HW2.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/HomeWork3/HW2/obj/Debug/net6.0/ref/HW2.dll
